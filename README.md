@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Szymon Czajkowski</h1>
 
-- 👀 Interested in Backend development and System design
+- 👀 Interested in backend development and software architecture
 
 - 🌱 I’m currently learning **Java, Spring, Angular**
 
